@@ -1,7 +1,11 @@
 {
   "name": "redux-js",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "author": "Paulo Sergio <pauloserg861@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
 }
